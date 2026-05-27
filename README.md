@@ -8,4 +8,4 @@ Because we build regulated products and follow internal product and architecture
 
 ## AI Policy
 
-We allow the use of AI tools but require the person putting code up for review to review all AI-generated code themselves before assigning to someone else for review.
+We allow the use of AI tools but require the person requesting review to understand and validate all AI-generated code as if they'd written it themselves.
