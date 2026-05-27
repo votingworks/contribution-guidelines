@@ -4,7 +4,7 @@ Contribution guidelines applicable across VotingWorks repos
 
 ## Community Code Contributions
 
-Because we build regulated products and follow internal product and architecture spec-ing processes, we only accept code contributions from VotingWorks employees and known collaborators. If you'd like to contribute as a member of the broader community, please reach out and share your proposed contribution via a GitHub issue, and we'll work with you from there! We also generally welcome feedback and suggestions via GitHub issues.
+We are open source, but because we build regulated products and follow internal product and architecture spec-ing processes, we are not open contribution; we only accept code contributions from VotingWorks employees and known collaborators. If you'd like to become a known collaborator so that you can make a code contribution, please reach out to us at https://www.voting.works/contact, and we'll be in touch. Independent of collaborator status, we welcome feedback and suggestions from all via GitHub issues!
 
 ## AI Policy
 
